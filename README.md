@@ -97,7 +97,8 @@ void loop(){
 # Result
 
 ---
-![WhatsApp Image 2025-10-29 at 00 35 43_2caeb9d1](https://github.com/user-attachments/assets/2e820ec9-24fd-4a16-88ee-4b44e49e3147)
+<img width="1919" height="804" alt="image" src="https://github.com/user-attachments/assets/09aadf86-699c-48c7-9051-30a47216d0da" />
+
 
 ---
 The temperature and humidity values are measured using DHT11/DHT22/TMP36 sensor with Arduino UNO Board/ESP-32 and Simulated using Tinker CAD.
