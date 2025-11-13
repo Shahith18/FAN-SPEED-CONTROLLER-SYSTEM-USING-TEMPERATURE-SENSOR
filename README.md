@@ -4,7 +4,6 @@
 
 # Aim:
 	To measure the Temperature using DHT11/DHT22/TMP36  sensor with Arduino UNO Board/ESP-32 using Tinker CAD.
-
 # Hardware / Software Tools required:
 	PC/ Laptop with Internet connection
     Tinker CAD tool (Online)
