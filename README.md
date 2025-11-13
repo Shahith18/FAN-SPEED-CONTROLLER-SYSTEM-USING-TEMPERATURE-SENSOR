@@ -12,7 +12,6 @@
 	Temperature Sensor (DHT11/DHT22/TMP36)
 
 # Circuit Diagram:
-
 ---
 
 <img width="393" height="211" alt="image" src="https://github.com/user-attachments/assets/86e010ed-9096-4eef-88ff-0ae10d5471fc" />
